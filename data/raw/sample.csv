@@ -1,0 +1,4 @@
+soil_type,ph,nitrogen,phosphorus,potassium,yield
+loamy,6.5,45,25,30,high
+clay,5.8,30,20,20,medium
+sandy,7.0,20,15,10,low
